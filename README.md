@@ -13,3 +13,5 @@ docker build -t wordpress:it610 .
 
 Run to start the site 
 docker run -itd --name wordpress-it610 -h wordpress -p 80:80 wordpress:it610  /bin/bash
+
+Live site: http://35.202.133.22/
