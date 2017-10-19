@@ -1,15 +1,16 @@
 # IT610
 Project 1
 
-Common Deliverables: 
+**Common Deliverables: 
 
-Install Nagios and monitor:
+**Install Nagios and monitor:
 
-Traffic
-CPU
-Disk
-HTTP
+1) Traffic
+2) CPU
+3) Disk
+4) HTTP
 
+Using nrpe plugin to monitor remote host (Docker host). Nagios running on different server connects through port 5666 to remote host.
 
 Project Consists of creating a Wordpress site using Docker, Apache and MySQL 
 
