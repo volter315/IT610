@@ -1,5 +1,16 @@
 # IT610
 Project 1
+
+Common Deliverables: 
+
+Install Nagios and monitor:
+
+Traffic
+CPU
+Disk
+HTTP
+
+
 Project Consists of creating a Wordpress site using Docker, Apache and MySQL 
 
 Requirements to run this:
